@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsi55krishna
+- 👋 Hi, I’m @vamsi krishna
 - 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently learning Web Development (HTML, CSS, Javascript)
 - 📫 How to reach me -> peyyetivamsi1234@gmail.com in Gmail
